@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://feaucgxrkrt.github.io/sitemap.xml
